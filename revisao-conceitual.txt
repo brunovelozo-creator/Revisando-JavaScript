@@ -1,0 +1,25 @@
+1-O que é uma variável?
+ É um espaço na memória utilizado para armazenar um valor que pode ser usado e manipulado durante a execução do programa.
+
+2-Diferença entre let, var e const?
+var - é a forma mais antiga de declarar variáveis em JavaScript, possui escopo de função e pode ser redeclarada.
+let - é a forma moderna, possui escopo de bloco e permite alteração do valor.
+const - também possui escopo de bloco, porém seu valor não pode ser alterado após a declaração.
+
+3-O que é uma função?
+ É um bloco de código criado para executar uma tarefa específica, podendo receber dados e retornar um resultado.
+
+4-O que é um array?
+ É uma estrutura de dados utilizada para armazenar uma lista de valores em uma única variável.
+
+5-O que é um objeto?
+ É uma estrutura que organiza dados no formato de chave e valor, permitindo representar informações mais complexas.
+
+6-O que é uma condição (if/else)?
+ É uma estrutura de controle utilizada para tomar decisões no código, executando diferentes ações dependendo se uma condição é verdadeira ou falsa.
+
+7-O que é um laço de repetição?
+ É uma estrutura que permite executar um bloco de código várias vezes enquanto uma condição for atendida.
+
+8-O que é JSON?
+ É um formato de texto leve utilizado para armazenar e transmitir dados entre sistemas, organizado em estrutura de chave e valor.
